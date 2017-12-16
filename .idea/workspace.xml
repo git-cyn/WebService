@@ -2,103 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b06db85c-52b8-45c9-a2cb-72e81fffe7f8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/target/Socket/WEB-INF/classes/SocketClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/target/Socket/WEB-INF/classes/SocketServer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/target/classes/SocketClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/target/classes/SocketServer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/target/classes/WebXmlGetMobile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceClient/target/classes/WebXmlGetMobile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceClient/target/test-classes/WebWeatherClient.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/ArrayOfString.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/DataSet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetRegionCountry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetRegionCountryResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetRegionDataset.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetRegionDatasetResponse$GetRegionDatasetResult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetRegionDatasetResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetRegionProvince.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetRegionProvinceResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetSupportCityDataset.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetSupportCityDatasetResponse$GetSupportCityDatasetResult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetSupportCityDatasetResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetSupportCityString.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetSupportCityStringResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetWeather.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/GetWeatherResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/ObjectFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/WeatherWS.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/WeatherWSHttpGet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/WeatherWSHttpPost.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/WeatherWSSoap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/cn/com/webxml/package-info.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/publishdemo/WeatherInterface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/publishdemo/WeatherInterfaceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/publishdemo/publish.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/test/UserInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/test/UserService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/test/UserServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/classes/test/WebServiceUserInfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/target/test-classes/UserInfoTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WebServiceDemo/TheServices.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/WebServiceDemo/TheServicesImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Socket_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Socket_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/Socket.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/src/main/java/SocketClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/src/main/java/SocketServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/target/Socket/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/target/Socket/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Socket/target/Socket/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebService.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceClient/WebServiceClient.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceClient/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceClient/src/main/java/WebXmlGetMobile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceClient/src/test/java/WebWeatherClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/WebServiceService.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/ArrayOfString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/DataSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/GetRegionCountry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/GetRegionCountryResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/GetRegionDataset.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/GetRegionDatasetResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/GetRegionProvince.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/GetRegionProvinceResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/GetSupportCityDataset.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/GetSupportCityDatasetResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/GetSupportCityString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/GetSupportCityStringResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/GetWeather.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/GetWeatherResponse.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/ObjectFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/WeatherWS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/WeatherWSHttpGet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/WeatherWSHttpPost.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/WeatherWSSoap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/cn/com/webxml/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/publishdemo/WeatherInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/publishdemo/WeatherInterfaceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/publishdemo/publish.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/test/UserInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/test/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/test/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/main/java/test/WebServiceUserInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebServiceService/src/test/java/UserInfoTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -1183,8 +1087,16 @@
       <workItem from="1512904925486" duration="6660000" />
       <workItem from="1513001198014" duration="2522000" />
       <workItem from="1513262802919" duration="669000" />
-      <workItem from="1513436254951" duration="3556000" />
+      <workItem from="1513436254951" duration="3644000" />
     </task>
+    <task id="LOCAL-00001" summary="ddd">
+      <created>1513439897759</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513439897759</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1199,7 +1111,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29683000" />
+    <option name="totallyTimeSpent" value="29771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -1277,7 +1189,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="ddd" />
+    <option name="LAST_COMMIT_MESSAGE" value="ddd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
